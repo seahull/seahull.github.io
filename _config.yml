@@ -2,12 +2,12 @@
 # -------------------------
 
 current_version:  1.0.0
-name: 			  Kunstnerisk
+name: 			  Seahull
 
 # Main Logo
 # -------------------------
 
-logo_regular: "media/logo/logo_regular.png"
+logo_regular: "media/logo/logo_regular.png" 
 logo_small_devices: "media/logo/logo_small.png"
 
 
@@ -35,36 +35,36 @@ navbar_color: "caribbean-green"
 # Image Hero
 # -------------------------
 
-title:            "Kunstnerisk"
-tagline:      	  "a responsive bootstrap three theme for jekyll"
+title:            "Seahull"
+tagline:      	  "Welcome to Seahull Boats"
 
 # Features Thumbs
 # -------------------------
 
 features_thumbs:
-  - title: "Clean Code"
-    icon: "code"
+  - title: "Built Tough"
+    icon: "gavel"
     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Build with Jekyll"
-    icon: "flask"
+  - title: "Lightweight"
+    icon: "dashboard"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Precisely Engineered"
+    icon: "gears"
     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
   - title: "Unique Design"
     icon: "file-image-o"
     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Responsive"
-    icon: "mobile"
+  - title: "Safe and Sound"
+    icon: "anchor"
     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Easy Color Change"
-    icon: "bolt"
+  - title: "Standards Compliant"
+    icon: "check-square-o"
     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "439 Icons"
-    icon: "flag"
+  - title: "Ships Worldwide"
+    icon: "globe"
     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Google Maps"
-    icon: "map-marker"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Fullscreen Background"
-    icon: "expand"
+  - title: "Eco Friendly"
+    icon: "paw"
     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
 
 # Blockquote
@@ -131,12 +131,12 @@ work_thumbs:
 # -------------------------
 
 contact:
-   latitude: "37.3321722"
-   longitude: "-122.0305748"
-   marker_title: "Apple Incorporated."
-   marker_address: "1 Infinite Loop Cupertino, CA 95014"
-   phone_number: "(321) 402-1098"
-   email_address: "hello@kunstnerisk.com"
+   latitude: "-36.836836"
+   longitude: "174.759669"
+   marker_title: "Seahull"
+   marker_address: "Auckland, New Zealand"
+   phone_number: "+64 27 573 7861"
+   email_address: "chris.cadag@gmail.com"
 
 # Configuration
 # -------------------------
